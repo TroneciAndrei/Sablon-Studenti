@@ -45,7 +45,7 @@ class Student{
         return "Name: " + this.name + "\n" +
         "Adresa: " + this.address + "\n" +
         "Telefon: " + this.phone + "\n" +
-        "Cors: " + this.course
+        "Curs: " + this.course
     }
 }
 let student1 = new Student("Andrei", "SOS. Berceni", 4023456543, "Sport");
